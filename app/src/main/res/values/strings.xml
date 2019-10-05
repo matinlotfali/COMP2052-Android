@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fahrenheit-Celsius Converter</string>
+    <string name="c">Celsius</string>
+    <string name="f">Fahrenheit</string>
+    <string name="todo">Please input the temperature and press the Convert button.</string>
+    <string name="submit">Convert</string>
+    <string name="result">The temperature is %.2f degrees %s</string>
+
+    <string-array name="units">
+        <item>@string/c</item>
+        <item>@string/f</item>
+    </string-array>
+</resources>
